@@ -1,0 +1,8 @@
+tensorflow
+tflearn
+influxdb
+numpy
+nltk
+flask
+Cmake
+dlib

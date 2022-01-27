@@ -1,0 +1,17 @@
+{"intents":[
+    {"tag":"saludo",
+        "patterns":["holi","hola","buenas","hi","hello","holis"],
+        "responses":["Hola buenas","Hola que te cuentas","Que bueno verte"]
+
+    }
+    
+    
+    
+
+    
+
+ ]
+
+
+
+}
